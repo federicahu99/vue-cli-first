@@ -14,5 +14,6 @@ h1 {
   color: green;
   text-align: center;
   font-size: 35px;
+  margin-bottom: 50px;
 }
 </style>
