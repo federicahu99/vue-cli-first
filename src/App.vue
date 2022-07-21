@@ -1,14 +1,14 @@
 <template>
-  <Title />
+  <MyTitle />
 </template>
 
 <script>
-import Title from './components/Title.vue'
+import TitleComponent from './components/Title.vue'
 
 export default {
   name: 'App',
   components: {
-    Title: Title,
+    MyTitle: TitleComponent,
   }
 }
 </script>
